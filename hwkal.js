@@ -6,7 +6,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.autorecording = false //status auto merekam ( auto record )
+global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.autoavailable = true //status online (online)
 global.wlcm = []
@@ -21,21 +21,21 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/@blueg2027' // ubah aia
-global.ig = 'https://www.instagram.com/woolcream' // ubah aja
-global.email = 'botzlang1@gmail.com'
+global.youtube = 'https://youtube.com/c/@ranggabotzofc' // ubah aia
+global.ig = 'https://www.instagram.com/rafael_ganz_13' // ubah aja
+global.email = 'hanzofc46@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '⸸LangZ⸸' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '⸸LangBotz⸸' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '© LangBotz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '⸸RafaelOfc⸸' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '⸸RafaelBOT⸸' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '© RafaelBOT' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62895634865955'] // ubah aja pake nomor lu
-global.premium = ['62895634865955'] // ubah aja pake nomor lu
-global.packname = '⸸LangBotz⸸' // ubah aja
-global.ownerr = ['⸸LangZ⸸'] // ubaha aja
-global.author = '⸸LangZ⸸' //ubah aja
+global.owner = ['6285770190255'] // ubah aja pake nomor lu
+global.premium = ['6285770190255'] // ubah aja pake nomor lu
+global.packname = '⸸RafaelBOT⸸' // ubah aja
+global.ownerr = ['⸸RafaelOfc⸸'] // ubaha aja
+global.author = '⸸RafaelOfc⸸' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
